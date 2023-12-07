@@ -1,7 +1,7 @@
 # JigMark: Enhanced Robust Image Watermark against Diffusion Models via Contrastive Learning
 
 
-<img width="100%" src="https://github.com/pmzzs/JigMark/assets/77789132/43fe3766-3e6b-4c1b-b4d3-cdd2910ff1c0">
+<img width="100%" src="https://github.com/pmzzs/JigMark/assets/77789132/ad6f3bbf-e87b-4ee2-a13d-e6c2a54aac52">
 
 This repository is the official implementation of "JigMark: Enhanced Robust Image Watermark against Diffusion Models via Contrastive Learning." Our work introduces a groundbreaking shift in image watermarking, directly addressing the challenges posed by advanced diffusion models. By introducing the HAV score and developing JigMark, we offer a novel solution to protect IP rights in the digital era. This initiative not only paves the way for further research in this field but also underscores the importance of continuous innovation and adaptability in the era of AI and machine learning. JigMark, known for its superior performance and practicality, sets a new standard for watermarking amid evolving digital challenges. We invite the community to explore, contribute, and apply our approach in various contexts to safeguard digital media's integrity and ownership. This repository includes the code, datasets, and additional resources, fostering collaborative advancements in this crucial research area.
 
